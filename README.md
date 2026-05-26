@@ -1,11 +1,11 @@
 # Lab: Text-Based Network Configuration with `nmtui`
 
-**Series:** linux-ops-mastery — RHCSA Networking
-**Subjects covered:** Terminal UI (`nmtui`), editing existing Ethernet connections, setting **manual** IPv4, CIDR addresses, gateway, DNS servers, activating connections, correlating changes with `nmcli` and `ip`, avoiding SSH lockout during edits
-**Career arcs covered:** RHCSA (acceptable alternative when `nmcli` syntax slips), RHCE (still automate with Ansible — but know the UI), SRE (serial console rescue), DevOps (minimal rescue images), AI/MLOps (headless-ish GPU nodes with serial BMC)
-**Prerequisite:** Conceptual understanding of IPv4 address, prefix, gateway, and DNS from Lab 31
-**Time Estimate:** 35 to 50 minutes
-**Difficulty arc:** Task 1 foundation · 2–3 navigate `nmtui` edit · 4–5 correlate NM fields · 6 exam-realistic capstone
+- **Series:** linux-ops-mastery — RHCSA Networking
+- **Subjects covered:** Terminal UI (`nmtui`), editing existing Ethernet connections, setting **manual** IPv4, CIDR addresses, gateway, DNS servers, activating connections, correlating changes with `nmcli` and `ip`, avoiding SSH lockout during edits
+- **Career arcs covered:** RHCSA (acceptable alternative when `nmcli` syntax slips), RHCE (still automate with Ansible — but know the UI), SRE (serial console rescue), DevOps (minimal rescue images), AI/MLOps (headless-ish GPU nodes with serial BMC)
+- **Prerequisite:** Conceptual understanding of IPv4 address, prefix, gateway, and DNS from Lab 31
+- **Time Estimate:** 35 to 50 minutes
+- **Difficulty arc:** Task 1 foundation · 2–3 navigate `nmtui` edit · 4–5 correlate NM fields · 6 exam-realistic capstone
 
 ---
 
